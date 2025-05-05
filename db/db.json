@@ -80,32 +80,32 @@
     {
       "id": 4,
       "name": "sadfghgf",
-    },
+    }
   ],
   "episode": [
-   {
-      "id": 1,
-      "MovieId": 1,
-      "title": "Tập 1: ",
-      "description": "Hiệp Sĩ Mặt Nạ Decade - (Siêu Nhân Thập Kỷ).",
-      "releaseDate": "2025-05-01",
-      "episodeNumber": 1,
-      "videoUrl": "https://www.youtube.com/watch?v=9f-Hi3JqqeE",
-      "quality": "1080p",
-      "views": 0,
-      "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
-    },
-    {
-      "id": 2,
-      "MovieId": 1,
-      "title": "Tập 2: Thế Giới Của Kuuga",
-      "description": "Hiệp Sĩ Mặt Nạ Decade - (Siêu Nhân Thập Kỷ).",
-      "releaseDate": "2025-05-01",
-      "episodeNumber": 2,
-      "videoUrl": "https://www.youtube.com/watch?v=9f-Hi3JqqeE",
-      "quality": "1080p",
-      "views": 0,
-      "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
-    }
-  ]
+     {
+        "id": 1,
+        "MovieId": 1,
+        "title": "Tập 1: ",
+        "description": "Hiệp Sĩ Mặt Nạ Decade - (Siêu Nhân Thập Kỷ).",
+        "releaseDate": "2025-05-01",
+        "episodeNumber": 1,
+        "videoUrl": "https://www.youtube.com/watch?v=9f-Hi3JqqeE",
+        "quality": "1080p",
+        "views": 0,
+        "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
+      },
+      {
+        "id": 2,
+        "MovieId": 1,
+        "title": "Tập 2: Thế Giới Của Kuuga",
+        "description": "Hiệp Sĩ Mặt Nạ Decade - (Siêu Nhân Thập Kỷ).",
+        "releaseDate": "2025-05-01",
+        "episodeNumber": 2,
+        "videoUrl": "https://www.youtube.com/watch?v=9f-Hi3JqqeE",
+        "quality": "1080p",
+        "views": 0,
+        "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
+      }
+    ]
 }
