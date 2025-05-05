@@ -83,7 +83,7 @@
         "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
       },
     {
-        "id": 10,
+        "id": 30,
         "MovieId": 2,
         "title": "Tập 1: Cánh Tay Bí Ẩn",
         "description": "Siêu Nhân Đồng Xu.",
@@ -93,6 +93,17 @@
         "quality": "1080p",
         "views": 0,
         "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
-      },
+      },{
+        "id": 31,
+        "MovieId": 2,
+        "title": "Tập 2: Diệt Bọ Biến Dị",
+        "description": "Siêu Nhân Đồng Xu.",
+        "releaseDate": "2025-05-01",
+        "episodeNumber": 2,
+        "videoUrl": "https://www.youtube.com/watch?v=tH7Dj_LD1uQ",
+        "quality": "1080p",
+        "views": 0,
+        "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
+      }
     ]
 }
