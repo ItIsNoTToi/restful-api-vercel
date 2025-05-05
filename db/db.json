@@ -13,6 +13,19 @@
       "rating": 4.3,
       "isActive": true,
       "genres": [1, 3]
+    },
+  {
+      "id": 2,
+      "title": "Hiêp Sĩ Mặt Nạ OOO",
+      "description": "Eiji Hino là một người đàn ông lang thang không nhà cửa và có một quá khứ bi thảm. Khi những sinh vật kim loại được gọi là Greeed đánh thức giấc ngủ 800 năm của họ để tấn công con người, cánh tay của Chared có tên Ankh đưa cho Eiji một vành đai và ba huy chương để chống lại Greed biến anh ta thành Siêu Nhân Hiệp Sĩ Mặt Nạ OOO.",
+      "releaseDate": "2017-05-04",
+      "director": "Eiji Hino",
+      "duration": 95,
+      "language": "Japanese",
+      "posterUrl": "https://i.postimg.cc/JDB6LmGd/decade.jpg",
+      "rating": 4.2,
+      "isActive": true,
+      "genres": [1, 3, 4]
     }
   ],
   "genres":[
@@ -69,6 +82,18 @@
         "quality": "1080p",
         "views": 0,
         "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
-      }
+      },
+    {
+        "id": 10,
+        "MovieId": 2,
+        "title": " Tập 1 : Cánh Tay Bí Ẩn",
+        "description": "Siêu Nhân Đồng Xu.",
+        "releaseDate": "2025-05-01",
+        "episodeNumber": 1,
+        "videoUrl": "https://www.youtube.com/watch?v=bnEOW9HtZJM",
+        "quality": "1080p",
+        "views": 0,
+        "subtitlesUrl": "https://example.com/subtitles/episode1.vtt"
+      },
     ]
 }
