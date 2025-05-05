@@ -65,23 +65,23 @@
     }
   ],
   "genres":[
-    {
-      "id": 1,
-      "name": "Sci-Fi",
-    },
-    {
-      "id": 2,
-      "name": "sad",
-    },
-    {
-      "id": 3,
-      "name": "543543",
-    },
-    {
-      "id": 4,
-      "name": "sadfghgf",
-    }
-  ],
+  {
+    "id": 1,
+    "name": "Sci-Fi"
+  },
+  {
+    "id": 2,
+    "name": "sad"
+  },
+  {
+    "id": 3,
+    "name": "543543"
+  },
+  {
+    "id": 4,
+    "name": "sadfghgf"
+  }
+],
   "episode": [
      {
         "id": 1,
