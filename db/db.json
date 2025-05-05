@@ -61,7 +61,7 @@
       "posterUrl": "https://i.postimg.cc/JDB6LmGd/decade.jpg",
       "rating": 4.3,
       "isActive": true,
-      "genres": [1, 4]  // ví dụ: 1 = Action, 4 = Sci-Fi
+      "genres": [1, 4]
     }
   ],
   "genres":[
